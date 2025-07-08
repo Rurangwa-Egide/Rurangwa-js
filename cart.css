@@ -76,4 +76,10 @@ button{
     border-radius: 10px;
     border: none;
     cursor: pointer;
+     background: linear-gradient(rgb(230, 70, 97), rgb(17, 94, 10));
+     color: white;
+     text-transform: capitalize;
+}
+button:hover{
+     background: linear-gradient( blue,pink);
 }
